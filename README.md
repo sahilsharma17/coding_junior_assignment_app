@@ -1,16 +1,31 @@
-# coding_junior_assignment_app
+# UI Design Project
 
-A new Flutter project.
+## Overview
+
+This project is a Flutter application that showcases various UI design concepts and features. It includes screens for a coding test app, including a splash screen, problem selection screen, and coding screen.
+
+## Features
+
+- Splash Screen: A visually appealing screen displayed when the app is launched.
+- Problem Selection Screen: Allows users to select a coding problem from a list.
+- Coding Screen: Provides a code editor for users to write and submit their code.
+
+## Demo Video
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run the app, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Run `flutter pub get` to install dependencies.
+4. Run `flutter run` to launch the app on your device or emulator.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Credits
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Developed by Sahil
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
