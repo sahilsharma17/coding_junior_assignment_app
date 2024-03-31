@@ -11,7 +11,7 @@ This project is a Flutter application that showcases various UI design concepts 
 - Coding Screen: Provides a code editor for users to write and submit their code.
 
 ## Demo Video
-
+https://github.com/sahilsharma17/coding_junior_assignment_app/assets/83007507/1f30f390-5cc3-4d68-8eef-45b76897a630
 
 ## Getting Started
 
